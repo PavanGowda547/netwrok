@@ -46,3 +46,8 @@ __the code__
 | Python         | Django    |
 | Java           | Springboot|
 | php            | xampp     |
+
+---
+
+- [] Python
+- [X] Java
