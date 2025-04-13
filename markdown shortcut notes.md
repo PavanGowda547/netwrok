@@ -10,7 +10,6 @@
 **the code**  
 _the code_  
 __the code__
-
 ---
 > python
   
@@ -34,7 +33,7 @@ __the code__
 
 ---
   
-![car](./backiee-86074.jpg)
+![car](./ferarri.jpg)
   
 ---
   
