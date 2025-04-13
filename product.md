@@ -65,9 +65,9 @@ It is a long established fact that a reader will be distracted by the readable c
   
 ***
   
-H~2O
+H<sub>2</sub>O
  
-x^2^
+x<sup>2</sup>
 
 :smile:
   
