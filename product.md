@@ -60,6 +60,24 @@ It is a long established fact that a reader will be distracted by the readable c
 ---
   
 ~~Hello world~~
+  
+==Important==
+  
+***s
+  
+H~2~O
+ 
+x^2
 
-~~~ bmbmb ~~~
-***
+:smile:
+  
+---
+
+```
+a = 10
+print(a)
+
+for i in range(a):
+    print(i)
+
+```
