@@ -12,7 +12,8 @@ _the code_
 __the code__
 
 ---
-
+> python
+  
 > hello world
 >> hello world
 >>> hello world
@@ -61,8 +62,9 @@ It is a long established fact that a reader will be distracted by the readable c
   
 ~~Hello world~~
   
-== Important ==
-  
+`Important`
+<mark>Important</mark>
+    
 ***
   
 H<sub>2</sub>O
